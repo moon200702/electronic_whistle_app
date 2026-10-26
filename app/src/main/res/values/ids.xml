@@ -1,0 +1,12 @@
+<resources>
+    <item name="whistle_button" type="id" />
+    <item name="status" type="id" />
+    <item name="hold_mode" type="id" />
+    <item name="tap_mode" type="id" />
+    <item name="sound_classic" type="id" />
+    <item name="sound_double" type="id" />
+    <item name="sound_trill" type="id" />
+    <item name="sound_low" type="id" />
+    <item name="volume" type="id" />
+    <item name="volume_keys" type="id" />
+</resources>

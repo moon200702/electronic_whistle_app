@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">電子哨</string>
+    <string name="tagline">隨時就位，一按發聲。</string>
+    <string name="offline">離線可用 · 無廣告</string>
+    <string name="sound_heading">選擇哨音</string>
+    <string name="classic">標準哨</string>
+    <string name="classic_description">清脆明亮，日常指令</string>
+    <string name="double_whistle">雙短哨</string>
+    <string name="double_description">兩聲短促，集合提醒</string>
+    <string name="trill">顫音哨</string>
+    <string name="trill_description">快速顫動，賽事節奏</string>
+    <string name="low">低音哨</string>
+    <string name="low_description">較低音調，沉穩清晰</string>
+    <string name="mode_heading">發聲方式</string>
+    <string name="hold_mode">按住發聲</string>
+    <string name="tap_mode">點按播放</string>
+    <string name="hold_hint">按住中央按鈕發聲，放開即停止</string>
+    <string name="tap_hint">點一下播放短哨，再點一下可停止</string>
+    <string name="hold_with_keys_hint">按住螢幕按鈕或音量＋／－發聲，放開即停</string>
+    <string name="tap_with_keys_hint">點按螢幕播放短哨；音量＋／－按住發聲</string>
+    <string name="volume_keys_title">實體音量鍵發聲</string>
+    <string name="volume_keys_description">開啟時，按住手機音量＋或音量－發聲，放開停止，僅在 App 畫面內有效。關閉可恢復調整手機音量；音量鍵發聲不受上方點按模式影響。</string>
+    <string name="tap_action">點一下播放</string>
+    <string name="stop_action">停止發聲</string>
+    <string name="playing">正在發聲</string>
+    <string name="ready">準備就緒</string>
+    <string name="volume_heading">哨音音量</string>
+    <string name="volume_value">%1$d%%</string>
+    <string name="volume_hint">音量也會受到手機媒體音量與輸出裝置影響</string>
+    <string name="footer">使用前先以低音量試聽，請勿靠近耳朵播放。</string>
+    <string name="audio_unavailable">目前無法播放音訊，請稍後再試。</string>
+    <string name="status_format">●  %1$s  ·  %2$s</string>
+    <string name="whistle_accessibility">%1$s，%2$s；輔助操作可點兩下播放短哨</string>
+</resources>
