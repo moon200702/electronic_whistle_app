@@ -2,6 +2,8 @@
 
 原生 Android 電子哨 App，可使用大型螢幕按鈕或手機側邊的實體音量鍵操作，支援 Android 8.0（API 26）以上。目前版本為 1.1.0。
 
+[下載 APK v1.1.0（開發測試版）](https://github.com/moon200702/electronic_whistle_app/raw/refs/heads/main/apk/electronic-whistle-v1.1.0-debug.apk)。編譯好的安裝檔與 SHA-256 校驗碼放在 [`apk/`](apk/) 目錄，可直接下載到 Android 手機安裝。
+
 [查看介面截圖](docs/screenshot.png)。小螢幕會使用精簡配置；往下捲動可調整發聲方式與音量。
 
 [查看實體音量鍵開關](docs/volume-keys.png)。
